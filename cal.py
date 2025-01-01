@@ -42,7 +42,7 @@ def calculator():
     else:
         print("Invalid input")
         
-password = "1234"
+
 
 if __name__ == "__main__":
     calculator()
