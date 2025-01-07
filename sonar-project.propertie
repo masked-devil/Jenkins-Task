@@ -1,0 +1,4 @@
+sonar.projectKey=Daily-Task-8
+sonar.sources=.
+sonar.host.url=http://localhost:9000
+sonar.token=sqp_63e29689f15855a7a49d51d67fdf218677e96f9c
